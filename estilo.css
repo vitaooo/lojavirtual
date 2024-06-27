@@ -1,3 +1,9 @@
 p {
     background-color: aliceblue;
 }
+div {
+    padding: 10px;
+}
+a {
+    font-style: italic;
+}
